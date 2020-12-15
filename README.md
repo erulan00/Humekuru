@@ -48,3 +48,6 @@ Cancel:変更を破棄してプレーヤー画面に戻る
 # 免債事項
 なにがあっても自己責任で  利用した結果何らかの被害を生じても当方は一切責任を取りません  
 逆コンパイルやそれに準ずるもの、無断転用などは禁止  
+
+# Download
+b0.0 [win](https://drive.google.com/file/d/1A4i6TaBQN8t17WCG3f4ZcKUPW5rPgwjF/view?usp=sharing,"drive")
