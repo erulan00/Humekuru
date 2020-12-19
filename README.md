@@ -42,12 +42,15 @@ delete:選んでいる画像を削除
 Save:変更を保存してプレーヤー画面に戻る  
 Cancel:変更を破棄してプレーヤー画面に戻る  
 
-# UI Setumei
-
+# Whats new(b0.1)  
+フォーカスが画面のとき矢印キー左右で5s進む/戻る 上下でボリューム変化  
+ABループ機能を追加  
+stayAボタンを押すことでA点設定、続いて変化したボタン(stayBボタン)を押すことでB地点設定、ABループ開始  再度同じボタンを押すことで解除  
 
 # 免債事項
 なにがあっても自己責任で  利用した結果何らかの被害を生じても当方は一切責任を取りません  
 逆コンパイルやそれに準ずるもの、無断転用などは禁止  
 
-# Download
-b0.0 [win](https://drive.google.com/file/d/1A4i6TaBQN8t17WCG3f4ZcKUPW5rPgwjF/view?usp=sharing,"drive")
+# Download  
+b0.0 [win](https://drive.google.com/file/d/1A4i6TaBQN8t17WCG3f4ZcKUPW5rPgwjF/view?usp=sharing)  
+b0.1(latest) [win](https://drive.google.com/file/d/1h5A74WKQrekSUkAhPmaRWEdtHYT9CT6P/view?usp=sharing)  
